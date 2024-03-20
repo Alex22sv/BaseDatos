@@ -18,3 +18,6 @@ Tipo de relaciones: binaria, ternaria, reflexiva.
 Restricciones: razón de cardinalidad (número de ocurrencias de una entidad que se relacionan con una ocurrencia de otra entidad) y razón de participación (forma de intervención de las ocurrencias de las entidades en una relación).
 Los tipos de particiones pueden ser total/dependiente (cada entidad de un conjunto de entidades participa al menos en una relación del conjunto de relaciones de forma obligatoria) o parcial (sólo algunas entidades del conjunto de entidades participan en relaciones del conjunto de relaciones).
 NO puede suceder que la cardinalidad mínima sea N ni que la cardinalidad máxima sea 0. Los valores posibles de la cardinalidad mínima son 0 y 1, los valores posibles de la cardinalidad máxima son 1 y N.
+
+### 18/03/2024
+La diferencia entre atributo multivaluado y compuesto es que compuesto es de varios tipos, multivaluado tiene varios del mismo tipo.
